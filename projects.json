@@ -1,0 +1,26 @@
+[
+  {
+    "address": {
+      "city": "My Town",
+      "country": "U.S.A.",
+      "line1": "123 My Street Rd.",
+      "line2": "Apt. 293",
+      "state": "Colorado",
+      "zip": "80123"
+    },
+    "name": "TestProject",
+    "tag": "Test"
+  },
+  {
+    "address": {
+      "city": "Middleton",
+      "country": "U.S.A.",
+      "line1": "246 Street2 Ave.",
+      "line2": "",
+      "state": "California",
+      "zip": "90877"
+    },
+    "name": "Test Project 2",
+    "tag": "Test2"
+  }
+]
